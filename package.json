@@ -1,0 +1,25 @@
+{
+  "name": "graphql-learning",
+  "version": "1.0.0",
+  "description": "Learning GraphQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitnair26/GraphQL-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitnair26/GraphQL-learning/issues"
+  },
+  "homepage": "https://github.com/sumitnair26/GraphQL-learning#readme",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.7.5",
+    "graphql": "^16.7.1"
+  }
+}
