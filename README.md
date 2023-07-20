@@ -1,2 +1,2 @@
 # GraphQL-learning
-Learning GraphQL
+Learning GraphQL.
