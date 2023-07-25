@@ -15,14 +15,14 @@ type Review {
     content: String!
 }
 
-type Authoe {
+type Author {
     id: ID!
     name: String!
     verified: Boolean!
 }
 
 type Query {
-    reviews: [Reviews]
+    reviews: [Review]
     games: [Game]
     authors: [Author]
 }
